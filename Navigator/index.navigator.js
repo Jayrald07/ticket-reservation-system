@@ -3,7 +3,7 @@ import './index.navigator.css'
 
 export default function Navigator(props) {
     return (
-        <nav>
+        <nav className="tk_navigator">
             <ul>
                 <li>
                     <a href="#">Home</a>
